@@ -2,7 +2,7 @@
 - 👀 I’m interested in computation and study
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: engineerinformatic77@gmail.com
+- 📫 How to reach me: Ask if you are interested
 
 <!---
 AC1003/AC1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
