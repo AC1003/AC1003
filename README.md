@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AC1003.
-- 👀 I’m interested in computation and study.
-- 🌱 I’m currently learning HTML and basic JS.
-- 💞️ I’m looking to collaborate on everithing.
-- 📫 How to reach me: frankpool54@gmail.com.
+-  Hi, I’m @AC1003 👋.
+-  💞️I deeply love to study and watch good fiction movies.
+-  I’m currently learning HTML and basic JS.
+-  I’m looking to collaborate on everithing.
+
 
 <!---
 AC1003/AC1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
