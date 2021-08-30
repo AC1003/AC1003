@@ -1,7 +1,7 @@
 -  Hi, I’m @AC1003 👋.
 -  💞️I deeply love to study and watch good fiction movies.
 -  I’m currently learning HTML and basic JS.
--  I’m looking to collaborate on everithing.d
+-  I’m looking to collaborate on everithing.
   
   
   
