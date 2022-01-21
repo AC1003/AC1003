@@ -1,7 +1,8 @@
--  Hi, I’m @AT 👋.
+-  Hi, I’m @Al Hayy 👋.
 -  💞️I deeply love to study and watch good fiction movies.
 -  I’m currently learning HTML and basic JS.
 -  I’m looking to collaborate on everithing.
+-  Email: alhayysocialmedia@gmail.com
   
   
   
